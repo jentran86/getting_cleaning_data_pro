@@ -6,10 +6,10 @@
 ## 4. Appropriately labels the data set with descriptive activity names.
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+# Code Book:
+# Load activity labels : activity_labels
 
-# Load: activity labels : activity_labels
-
-# Load: data column names: features
+# Load data column names: features
 
 # Extract only the measurements on the mean and standard deviation for each measurement: extract_features
 
