@@ -1,0 +1,9 @@
+Code Book:
+Load activity labels : activity_labels
+Load data column names: features
+Extract only the measurements on the mean and standard deviation for each measurement: extract_features
+Load and process X_test & y_test data.
+Load activity labels : y_test
+Bind test data : test_data
+Load X_train & y_train data.
+Bind train data : train_data
